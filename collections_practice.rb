@@ -54,7 +54,7 @@ def add_s(array)
     if index == 1
       element
     else
-      binding.pry
+      # binding.pry
       "#{element}s"
   end
   end
